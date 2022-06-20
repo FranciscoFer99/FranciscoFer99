@@ -26,18 +26,18 @@ I'm **Francisco Manuel Fernández Pino**, I am a **Fullstack Web Developer** and
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Angular</b></span><br/><br/><br/>
+        <img height="64px" src="https://github.com/FranciscoFer99/resources/blob/main/angular-icon-logo-vector.png">
+        <br/><br/>
+      </td>
+     <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>JavaScript</b></span><br/><br/><br/>
         <img height="64px" src="https://www.manejandodatos.es/wp-content/uploads/2015/03/javascript.png">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>HTML</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>CSS</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+          <span><b>PHP</b></span><br/><br/><br/>
+         <img height="64px" src="http://lineadecodigo.com/wp-content/uploads/2013/11/php.png">
          <br/><br/>
       </td>
       </tr>
@@ -53,8 +53,8 @@ I'm **Francisco Manuel Fernández Pino**, I am a **Fullstack Web Developer** and
         <br/><br/>
       </td> 
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>PHP</b></span><br/><br/><br/>
-         <img height="64px" src="http://lineadecodigo.com/wp-content/uploads/2013/11/php.png">
+          <span><b>CYPRESS</b></span><br/><br/><br/>
+         <img height="64px" src="https://github.com/FranciscoFer99/resources/blob/main/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png">
          <br/><br/>
       </td>
     </tr>
