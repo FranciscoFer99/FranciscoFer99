@@ -15,7 +15,6 @@ I'm **Francisco Manuel Fernández Pino**, I am a **Fullstack Web Developer** and
   - Bases de Datos Mysql Oracle PostgreSQL​
 
 - 💬 Contacta conmigo sobre cualquier duda
-- ⚡ Dato curioso: Me implico mucho en lo que hago
 - 📫 Como contactarme:
 
   <a href="mailto:franciscomanuelfernandezpino@gmail.com"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
